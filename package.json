@@ -1,0 +1,12 @@
+{
+  "name": "cb25-cricket-score",
+  "version": "1.0.0",
+  "description": "CB25 cricket score manager",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
